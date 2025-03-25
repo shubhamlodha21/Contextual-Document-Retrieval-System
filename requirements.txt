@@ -1,0 +1,22 @@
+# Core Python Libraries
+numpy==1.24.3
+typing==3.7.4.3
+python-dotenv==1.0.0
+
+# Document Processing
+PyPDF2==3.0.1
+regex==2023.10.3
+
+# Embedding and NLP
+sentence-transformers==2.5.1
+torch==2.1.1
+
+# Vector Database
+pinecone-client==2.2.4
+
+# Logging
+logging==0.5.1.2
+
+# Optional: Development and Testing
+pytest==7.4.3
+pytest-cov==4.1.0
