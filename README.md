@@ -2,7 +2,7 @@
 
 ## 🌟 Overview
 
-A sophisticated Retrieval-Augmented Generation (RAG) system for intelligent document processing and semantic search, leveraging advanced NLP techniques.
+A sophisticated Retrieval-Augmented Generation (RAG) system for intelligent document processing and semantic search, leveraging  advanced NLP techniques.
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
